@@ -1,2 +1,2 @@
 # CPP-Modules
-o Object-Oriented Programming (OOP)
+Object-Oriented Programming (OOP)
